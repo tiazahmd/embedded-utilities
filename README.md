@@ -13,6 +13,6 @@ Region Base Offset = SF Register Base - Bit Band Region Base
 Bit Band Address = Alias Region Base + (Region Base Offset x 32) + (Bit number x 4)
 ```
 
-[Memory Map and Bit Banding Regions](https://i.imgur.com/yF5sylK.png)
+![Memory Map and Bit Banding Regions](https://i.imgur.com/yF5sylK.png)
 
-[GPIO Memory Addresses](https://i.imgur.com/kqq4rPK.png)
+![GPIO Memory Addresses](https://i.imgur.com/kqq4rPK.png)
