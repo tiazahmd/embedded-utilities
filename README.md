@@ -6,7 +6,9 @@ This program has been tested with with Nucleo F411RE board, which uses ARM Corte
 
 ## Formula:
 Alias Base Region = The very base where the alias region starts for that particular GPIO
+
 Bit Band Region Base = The base address where the bit band region starts
+
 Bit number = Pin number
 ``` 
 Region Base Offset = SF Register Base - Bit Band Region Base
